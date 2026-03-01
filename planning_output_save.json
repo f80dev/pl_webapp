@@ -1,0 +1,4790 @@
+[
+    {
+        "plage": {
+            "dtStart": "2026-03-01T16:00:00",
+            "dtEnd": "2026-03-01T20:00:00"
+        },
+        "salle": "Salle2",
+        "Prof_ID": "Prof11",
+        "titre": "Cours128",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof11",
+            "Secteur": "Scénographie",
+            "Materiel": "",
+            "Semestre": "4ème année Photo / Vidéo S1",
+            "Annee": "L1"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T19:00:00",
+            "dtEnd": "2026-03-04T20:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof20",
+        "titre": "Cours72",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof20",
+            "Secteur": "Design Vêtement",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Design Graphique S2",
+            "Annee": "M2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T18:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle26",
+        "Prof_ID": "Prof6",
+        "titre": "Cours170",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof6",
+            "Secteur": "Design Textile et Matière",
+            "Materiel": "Tableau",
+            "Semestre": "3ème année Design Graphique S2",
+            "Annee": "M1"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-06T13:00:00",
+            "dtEnd": "2026-03-06T17:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof4,Prof15",
+        "titre": "Cours141",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof4,Prof15",
+            "Secteur": "Design Vêtement",
+            "Materiel": "Projecteur",
+            "Semestre": "2ème année Art-Espace S2",
+            "Annee": "L2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T18:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle7",
+        "Prof_ID": "Prof18",
+        "titre": "Cours92",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof18",
+            "Secteur": "Design des mondes insulaires",
+            "Materiel": "Projecteur",
+            "Semestre": "3ème année Art-Espace S1",
+            "Annee": "M1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T17:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof3",
+        "titre": "Cours173",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof3",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "Projecteur",
+            "Semestre": "1ère Année Groupe 3 S2",
+            "Annee": "L1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-01-16T12:00:00",
+            "dtEnd": "2026-01-16T13:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof16",
+        "titre": "Cours14",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof16",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "Tableau",
+            "Semestre": "4ème année Image Imprimée S2",
+            "Annee": "M1"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T17:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle27",
+        "Prof_ID": "Prof19",
+        "titre": "Cours125",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof19",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "",
+            "Semestre": "3ème année Cinéma d'Animation S1",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T08:00:00",
+            "dtEnd": "2026-04-04T10:00:00"
+        },
+        "salle": "Salle1",
+        "Prof_ID": "Prof16",
+        "titre": "Cours109",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof16",
+            "Secteur": "Cinéma d'Animation",
+            "Materiel": "",
+            "Semestre": "2ème année Scénographie S1",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T19:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle20",
+        "Prof_ID": "Prof15,Prof20",
+        "titre": "Cours192",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof15,Prof20",
+            "Secteur": "Cinéma d'Animation",
+            "Materiel": "Projecteur",
+            "Semestre": "1ère Année Groupe 2 S1",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-13T15:00:00",
+            "dtEnd": "2026-03-13T18:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof12",
+        "titre": "Cours248",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof12",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "Tableau",
+            "Semestre": "3ème année Design Objet S1",
+            "Annee": "M1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T08:00:00",
+            "dtEnd": "2026-03-03T10:00:00"
+        },
+        "salle": "Salle21",
+        "Prof_ID": "Prof13",
+        "titre": "Cours27",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof13",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "",
+            "Semestre": "3ème année Scénographie S2",
+            "Annee": "M2"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T19:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle10",
+        "Prof_ID": "Prof11",
+        "titre": "Cours63",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof11",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "",
+            "Semestre": "3ème année Art-Espace S2",
+            "Annee": "M1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T16:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle4",
+        "Prof_ID": "Prof14",
+        "titre": "Cours260",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof14",
+            "Secteur": "Gr SPATIAL MEDIA",
+            "Materiel": "",
+            "Semestre": "4ème année Design Textile et Matière S1",
+            "Annee": "L3"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T16:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof18",
+        "titre": "Cours237",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof18",
+            "Secteur": "Gr SYMBIOSE",
+            "Materiel": "Projecteur",
+            "Semestre": "5ème année Design Vêtement S2",
+            "Annee": "L1"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-11T15:00:00",
+            "dtEnd": "2026-03-11T16:00:00"
+        },
+        "salle": "Salle19",
+        "Prof_ID": "Prof14",
+        "titre": "Cours158",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof14",
+            "Secteur": "Design des mondes montagneux",
+            "Materiel": "",
+            "Semestre": "2ème année Scénographie S1",
+            "Annee": "L3"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T18:00:00",
+            "dtEnd": "2026-03-04T20:00:00"
+        },
+        "salle": "Salle1",
+        "Prof_ID": "Prof9",
+        "titre": "Cours47",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof9",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "Tableau",
+            "Semestre": "4ème année Scénographie S1",
+            "Annee": "M1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-28T10:00:00",
+            "dtEnd": "2026-03-28T11:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof17",
+        "titre": "Cours124",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof17",
+            "Secteur": "Gr TERRITOIRES",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 2 S1",
+            "Annee": "L2"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T08:00:00",
+            "dtEnd": "2026-04-01T11:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof3",
+        "titre": "Cours148",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof3",
+            "Secteur": "Mode et Matière",
+            "Materiel": "",
+            "Semestre": "5ème année Scénographie S1",
+            "Annee": "L3"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T14:00:00",
+            "dtEnd": "2026-03-03T17:00:00"
+        },
+        "salle": "Salle6",
+        "Prof_ID": "Prof19,Prof20",
+        "titre": "Cours162",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof19,Prof20",
+            "Secteur": "Mode et Matière",
+            "Materiel": "Projecteur",
+            "Semestre": "3ème année Cinéma d'Animation S2",
+            "Annee": "L2"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T16:00:00",
+            "dtEnd": "2026-03-01T20:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof14",
+        "titre": "Cours130",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof14",
+            "Secteur": "6ème année atelier",
+            "Materiel": "",
+            "Semestre": "4ème année Image Imprimée S2",
+            "Annee": "L1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T08:00:00",
+            "dtEnd": "2026-03-01T11:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof14,Prof7",
+        "titre": "Cours257",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof14,Prof7",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "4ème année Design Graphique S1",
+            "Annee": "M1"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-20T14:00:00",
+            "dtEnd": "2026-02-20T17:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof8",
+        "titre": "Cours214",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof8",
+            "Secteur": "Architecture Intérieure",
+            "Materiel": "",
+            "Semestre": "2ème année Design Graphique S2",
+            "Annee": "L3"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T13:00:00",
+            "dtEnd": "2026-04-03T16:00:00"
+        },
+        "salle": "Salle4",
+        "Prof_ID": "Prof1",
+        "titre": "Cours156",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof1",
+            "Secteur": "Cinéma d'Animation",
+            "Materiel": "Tableau",
+            "Semestre": "3ème année Scénographie S2",
+            "Annee": "L1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-15T16:00:00",
+            "dtEnd": "2026-03-15T17:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof16",
+        "titre": "Cours198",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof16",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "",
+            "Semestre": "5ème année Architecture Intérieure S1",
+            "Annee": "M2"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-13T14:00:00",
+            "dtEnd": "2026-03-13T15:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof5,Prof20",
+        "titre": "Cours58",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof5,Prof20",
+            "Secteur": "Mode et Matière",
+            "Materiel": "Tableau",
+            "Semestre": "2ème année Photo / Vidéo S1",
+            "Annee": "L1"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T18:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof13",
+        "titre": "Cours117",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof13",
+            "Secteur": "6ème année atelier",
+            "Materiel": "Tableau",
+            "Semestre": "2ème année Design Vêtement S2",
+            "Annee": "L3"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T18:00:00",
+            "dtEnd": "2026-03-04T20:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof5",
+        "titre": "Cours30",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof5",
+            "Secteur": "Design Vêtement",
+            "Materiel": "",
+            "Semestre": "5ème année Cinéma d'Animation S1",
+            "Annee": "L1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-22T09:00:00",
+            "dtEnd": "2026-03-22T13:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof10",
+        "titre": "Cours189",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof10",
+            "Secteur": "Design Graphique",
+            "Materiel": "",
+            "Semestre": "5ème année Design Graphique S1",
+            "Annee": "L1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T19:00:00",
+            "dtEnd": "2026-03-01T20:00:00"
+        },
+        "salle": "Salle11",
+        "Prof_ID": "Prof4",
+        "titre": "Cours50",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof4",
+            "Secteur": "1ère année Groupe 4",
+            "Materiel": "Projecteur",
+            "Semestre": "5ème année Scénographie S1",
+            "Annee": "L2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-19T11:00:00",
+            "dtEnd": "2026-03-19T15:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof19,Prof10",
+        "titre": "Cours226",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof19,Prof10",
+            "Secteur": "Design Graphique",
+            "Materiel": "",
+            "Semestre": "3ème année Design Textile et Matière S2",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T16:00:00",
+            "dtEnd": "2026-04-02T20:00:00"
+        },
+        "salle": "Salle14",
+        "Prof_ID": "Prof3",
+        "titre": "Cours70",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof3",
+            "Secteur": "Cinéma d'Animation",
+            "Materiel": "",
+            "Semestre": "5ème année Image Imprimée S2",
+            "Annee": "L1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-27T12:00:00",
+            "dtEnd": "2026-03-27T15:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof16",
+        "titre": "Cours179",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof16",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Design Objet S1",
+            "Annee": "L1"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T14:00:00",
+            "dtEnd": "2026-03-03T16:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof9",
+        "titre": "Cours177",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof9",
+            "Secteur": "Design des mondes urbains",
+            "Materiel": "Projecteur",
+            "Semestre": "5ème année Art-Espace S2",
+            "Annee": "L2"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T17:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof12",
+        "titre": "Cours74",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof12",
+            "Secteur": "6ème année atelier",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Design Graphique S2",
+            "Annee": "M2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-01-02T15:00:00",
+            "dtEnd": "2026-01-02T17:00:00"
+        },
+        "salle": "Salle1",
+        "Prof_ID": "Prof11,Prof13",
+        "titre": "Cours132",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof11,Prof13",
+            "Secteur": "Design des mondes ruraux",
+            "Materiel": "Tableau",
+            "Semestre": "5ème année Art-Espace S2",
+            "Annee": "L2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T16:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle7",
+        "Prof_ID": "Prof4",
+        "titre": "Cours122",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof4",
+            "Secteur": "6ème ANNÉE STAGE",
+            "Materiel": "",
+            "Semestre": "3ème année Architecture Intérieure S2",
+            "Annee": "L3"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T16:00:00",
+            "dtEnd": "2026-04-02T20:00:00"
+        },
+        "salle": "Salle13",
+        "Prof_ID": "Prof17",
+        "titre": "Cours180",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof17",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "",
+            "Semestre": "4ème année Architecture Intérieure S1",
+            "Annee": "M1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T17:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle1",
+        "Prof_ID": "Prof6",
+        "titre": "Cours36",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof6",
+            "Secteur": "1ère année Groupe 3",
+            "Materiel": "Tableau",
+            "Semestre": "2ème année Photo / Vidéo S2",
+            "Annee": "M2"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T08:00:00",
+            "dtEnd": "2026-03-01T11:00:00"
+        },
+        "salle": "Salle21",
+        "Prof_ID": "Prof1",
+        "titre": "Cours78",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof1",
+            "Secteur": "Architecture Intérieure",
+            "Materiel": "",
+            "Semestre": "2ème année Photo / Vidéo S2",
+            "Annee": "L3"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T08:00:00",
+            "dtEnd": "2026-04-03T12:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof20,Prof4",
+        "titre": "Cours15",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof20,Prof4",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "",
+            "Semestre": "2ème année Design Graphique S1",
+            "Annee": "M2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-28T10:00:00",
+            "dtEnd": "2026-03-28T11:00:00"
+        },
+        "salle": "Salle27",
+        "Prof_ID": "Prof10",
+        "titre": "Cours251",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof10",
+            "Secteur": "6ème ANNÉE STAGE",
+            "Materiel": "Tableau",
+            "Semestre": "2ème année Architecture Intérieure S1",
+            "Annee": "M1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T16:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle4",
+        "Prof_ID": "Prof17",
+        "titre": "Cours67",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof17",
+            "Secteur": "Design des mondes insulaires",
+            "Materiel": "",
+            "Semestre": "4ème année Architecture Intérieure S1",
+            "Annee": "M1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T16:00:00",
+            "dtEnd": "2026-03-01T20:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof5",
+        "titre": "Cours227",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof5",
+            "Secteur": "Secteurs",
+            "Materiel": "Tableau",
+            "Semestre": "5ème année Design Graphique S1",
+            "Annee": "M1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T08:00:00",
+            "dtEnd": "2026-03-02T09:00:00"
+        },
+        "salle": "Salle7",
+        "Prof_ID": "Prof15,Prof16",
+        "titre": "Cours10",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof15,Prof16",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "Projecteur",
+            "Semestre": "2ème année Image Imprimée S2",
+            "Annee": "M2"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T19:00:00",
+            "dtEnd": "2026-03-01T20:00:00"
+        },
+        "salle": "Salle21",
+        "Prof_ID": "Prof18",
+        "titre": "Cours29",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof18",
+            "Secteur": "Design Graphique",
+            "Materiel": "",
+            "Semestre": "3ème année Cinéma d'Animation S2",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T14:00:00",
+            "dtEnd": "2026-03-03T17:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof14",
+        "titre": "Cours129",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof14",
+            "Secteur": "1ère année Groupe 3",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "3ème année Scénographie S2",
+            "Annee": "L3"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-13T13:00:00",
+            "dtEnd": "2026-03-13T14:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof10",
+        "titre": "Cours95",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof10",
+            "Secteur": "Design des mondes urbains",
+            "Materiel": "Tableau",
+            "Semestre": "4ème année Design Textile et Matière S2",
+            "Annee": "M1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T18:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof2",
+        "titre": "Cours259",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof2",
+            "Secteur": "Design des mondes ruraux",
+            "Materiel": "Projecteur",
+            "Semestre": "3ème année Design Textile et Matière S1",
+            "Annee": "L3"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T08:00:00",
+            "dtEnd": "2026-03-02T11:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof1",
+        "titre": "Cours138",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof1",
+            "Secteur": "6ème ANNÉE STAGE",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "2ème année Image Imprimée S2",
+            "Annee": "M2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T17:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof18",
+        "titre": "Cours19",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof18",
+            "Secteur": "Image Imprimée",
+            "Materiel": "",
+            "Semestre": "5ème année Image Imprimée S2",
+            "Annee": "L3"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T08:00:00",
+            "dtEnd": "2026-03-03T12:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof5,Prof7",
+        "titre": "Cours241",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof5,Prof7",
+            "Secteur": "1ère année Groupe 4",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "1ère Année Groupe 4 S2",
+            "Annee": "L2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T14:00:00",
+            "dtEnd": "2026-04-03T17:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof11",
+        "titre": "Cours127",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof11",
+            "Secteur": "Architecture Intérieure",
+            "Materiel": "",
+            "Semestre": "2ème année Cinéma d'Animation S1",
+            "Annee": "L2"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-18T10:00:00",
+            "dtEnd": "2026-03-18T11:00:00"
+        },
+        "salle": "Salle26",
+        "Prof_ID": "Prof2",
+        "titre": "Cours135",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof2",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "",
+            "Semestre": "5ème année Image Imprimée S2",
+            "Annee": "M1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T11:00:00",
+            "dtEnd": "2026-04-01T12:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof12",
+        "titre": "Cours211",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof12",
+            "Secteur": "6ème ANNÉE STAGE",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Design Vêtement S1",
+            "Annee": "L1"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T16:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof13",
+        "titre": "Cours59",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof13",
+            "Secteur": "Gr TERRITOIRES",
+            "Materiel": "",
+            "Semestre": "2ème année Design Objet S1",
+            "Annee": "L2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T16:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof2,Prof7",
+        "titre": "Cours31",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof2,Prof7",
+            "Secteur": "Gr REFLECTIVE INTERACTION",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "1ère Année Groupe 3 S2",
+            "Annee": "L1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-10T17:00:00",
+            "dtEnd": "2026-02-10T18:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof7",
+        "titre": "Cours46",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof7",
+            "Secteur": "Secteurs",
+            "Materiel": "",
+            "Semestre": "4ème année Art-Espace S1",
+            "Annee": "L3"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T08:00:00",
+            "dtEnd": "2026-04-03T09:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof6,Prof15",
+        "titre": "Cours82",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof6,Prof15",
+            "Secteur": "Art-Espace",
+            "Materiel": "",
+            "Semestre": "5ème année Design Textile et Matière S2",
+            "Annee": "M1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T16:00:00",
+            "dtEnd": "2026-03-04T20:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof15,Prof15",
+        "titre": "Cours178",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof15,Prof15",
+            "Secteur": "Design des mondes insulaires",
+            "Materiel": "",
+            "Semestre": "2ème année Image Imprimée S2",
+            "Annee": "L2"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T17:00:00",
+            "dtEnd": "2026-03-02T20:00:00"
+        },
+        "salle": "Salle29",
+        "Prof_ID": "Prof13",
+        "titre": "Cours147",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof13",
+            "Secteur": "6ème année atelier",
+            "Materiel": "",
+            "Semestre": "3ème année Design Objet S1",
+            "Annee": "M1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T19:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof14",
+        "titre": "Cours96",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof14",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Design Objet S1",
+            "Annee": "M2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T08:00:00",
+            "dtEnd": "2026-04-01T11:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof10",
+        "titre": "Cours206",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof10",
+            "Secteur": "Architecture Intérieure",
+            "Materiel": "",
+            "Semestre": "4ème année Design Textile et Matière S2",
+            "Annee": "L2"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T19:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle21",
+        "Prof_ID": "Prof8",
+        "titre": "Cours9",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof8",
+            "Secteur": "Gr SYMBIOSE",
+            "Materiel": "",
+            "Semestre": "4ème année Design Vêtement S2",
+            "Annee": "L1"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T19:00:00",
+            "dtEnd": "2026-03-04T20:00:00"
+        },
+        "salle": "Salle7",
+        "Prof_ID": "Prof1",
+        "titre": "Cours39",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof1",
+            "Secteur": "Secteurs",
+            "Materiel": "",
+            "Semestre": "2ème année Design Textile et Matière S1",
+            "Annee": "L3"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T17:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof12",
+        "titre": "Cours244",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof12",
+            "Secteur": "Art-Espace",
+            "Materiel": "Projecteur",
+            "Semestre": "3ème année Design Vêtement S2",
+            "Annee": "L3"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-13T12:00:00",
+            "dtEnd": "2026-03-13T13:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof9",
+        "titre": "Cours154",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof9",
+            "Secteur": "Design des mondes urbains",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Design Vêtement S2",
+            "Annee": "L2"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-23T11:00:00",
+            "dtEnd": "2026-03-23T15:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof12",
+        "titre": "Cours201",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof12",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "4ème année Design Objet S2",
+            "Annee": "M2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T08:00:00",
+            "dtEnd": "2026-04-04T10:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof8,Prof13",
+        "titre": "Cours18",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof8,Prof13",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "",
+            "Semestre": "5ème année Scénographie S1",
+            "Annee": "L1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-28T11:00:00",
+            "dtEnd": "2026-03-28T12:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof14",
+        "titre": "Cours191",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof14",
+            "Secteur": "Secteurs",
+            "Materiel": "Projecteur",
+            "Semestre": "3ème année Art-Espace S1",
+            "Annee": "L2"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T08:00:00",
+            "dtEnd": "2026-04-04T09:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof14",
+        "titre": "Cours2",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof14",
+            "Secteur": "Design Objet",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "3ème année Image Imprimée S2",
+            "Annee": "L1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T17:00:00",
+            "dtEnd": "2026-03-04T20:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof11",
+        "titre": "Cours119",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof11",
+            "Secteur": "Art-Espace",
+            "Materiel": "",
+            "Semestre": "2ème année Photo / Vidéo S2",
+            "Annee": "M1"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T08:00:00",
+            "dtEnd": "2026-04-04T11:00:00"
+        },
+        "salle": "Salle10",
+        "Prof_ID": "Prof7",
+        "titre": "Cours252",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof7",
+            "Secteur": "Design Graphique",
+            "Materiel": "",
+            "Semestre": "3ème année Scénographie S2",
+            "Annee": "L2"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T16:00:00",
+            "dtEnd": "2026-03-04T20:00:00"
+        },
+        "salle": "Salle2",
+        "Prof_ID": "Prof19",
+        "titre": "Cours171",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof19",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "",
+            "Semestre": "3ème année Design Graphique S1",
+            "Annee": "L3"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-03T11:00:00",
+            "dtEnd": "2026-02-03T15:00:00"
+        },
+        "salle": "Salle1",
+        "Prof_ID": "Prof13",
+        "titre": "Cours213",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof13",
+            "Secteur": "6ème année atelier",
+            "Materiel": "",
+            "Semestre": "3ème année Design Textile et Matière S1",
+            "Annee": "M1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T19:00:00",
+            "dtEnd": "2026-03-01T20:00:00"
+        },
+        "salle": "Salle14",
+        "Prof_ID": "Prof13",
+        "titre": "Cours235",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof13",
+            "Secteur": "6ème année atelier",
+            "Materiel": "",
+            "Semestre": "4ème année Scénographie S1",
+            "Annee": "L2"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-20T14:00:00",
+            "dtEnd": "2026-03-20T15:00:00"
+        },
+        "salle": "Salle11",
+        "Prof_ID": "Prof19,Prof3",
+        "titre": "Cours164",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof19,Prof3",
+            "Secteur": "Design Textile et Matière",
+            "Materiel": "Projecteur",
+            "Semestre": "5ème année Scénographie S1",
+            "Annee": "M2"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T17:00:00",
+            "dtEnd": "2026-03-02T20:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof10",
+        "titre": "Cours136",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof10",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "",
+            "Semestre": "4ème année Design Objet S2",
+            "Annee": "M1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T15:00:00",
+            "dtEnd": "2026-03-01T16:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof13,Prof4",
+        "titre": "Cours66",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof13,Prof4",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 4 S2",
+            "Annee": "M1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T18:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof9",
+        "titre": "Cours243",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof9",
+            "Secteur": "Secteurs",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "3ème année Photo / Vidéo S1",
+            "Annee": "M2"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-01-24T11:00:00",
+            "dtEnd": "2026-01-24T13:00:00"
+        },
+        "salle": "Salle20",
+        "Prof_ID": "Prof1",
+        "titre": "Cours172",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof1",
+            "Secteur": "Secteurs",
+            "Materiel": "",
+            "Semestre": "4ème année Art-Espace S2",
+            "Annee": "M2"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T14:00:00",
+            "dtEnd": "2026-03-01T16:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof20,Prof7",
+        "titre": "Cours57",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof20,Prof7",
+            "Secteur": "Design des mondes ruraux",
+            "Materiel": "",
+            "Semestre": "3ème année Design Vêtement S1",
+            "Annee": "M2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-23T14:00:00",
+            "dtEnd": "2026-03-23T18:00:00"
+        },
+        "salle": "Salle4",
+        "Prof_ID": "Prof3",
+        "titre": "Cours16",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof3",
+            "Secteur": "Art-Espace",
+            "Materiel": "Tableau",
+            "Semestre": "3ème année Art-Espace S1",
+            "Annee": "M1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T08:00:00",
+            "dtEnd": "2026-04-04T11:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof9",
+        "titre": "Cours62",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof9",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "Projecteur",
+            "Semestre": "2ème année Architecture Intérieure S2",
+            "Annee": "L1"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-23T08:00:00",
+            "dtEnd": "2026-03-23T11:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof9",
+        "titre": "Cours94",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof9",
+            "Secteur": "6ème année atelier",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Design Textile et Matière S1",
+            "Annee": "L2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T19:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle2",
+        "Prof_ID": "Prof15",
+        "titre": "Cours43",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof15",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "",
+            "Semestre": "2ème année Design Graphique S1",
+            "Annee": "L2"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-15T12:00:00",
+            "dtEnd": "2026-03-15T13:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof1,Prof6",
+        "titre": "Cours151",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof1,Prof6",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "Tableau",
+            "Semestre": "4ème année Scénographie S1",
+            "Annee": "M2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-06T19:00:00",
+            "dtEnd": "2026-03-06T20:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof1",
+        "titre": "Cours81",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof1",
+            "Secteur": "1ère année Groupe 3",
+            "Materiel": "",
+            "Semestre": "4ème année Design Textile et Matière S1",
+            "Annee": "L2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T17:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof17",
+        "titre": "Cours223",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof17",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "",
+            "Semestre": "2ème année Design Vêtement S2",
+            "Annee": "L1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T16:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle19",
+        "Prof_ID": "Prof9",
+        "titre": "Cours220",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof9",
+            "Secteur": "Design Vêtement",
+            "Materiel": "",
+            "Semestre": "5ème année Design Vêtement S2",
+            "Annee": "L1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T16:00:00",
+            "dtEnd": "2026-03-01T20:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof17",
+        "titre": "Cours56",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof17",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "4ème année Design Textile et Matière S2",
+            "Annee": "M2"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-10T13:00:00",
+            "dtEnd": "2026-02-10T15:00:00"
+        },
+        "salle": "Salle4",
+        "Prof_ID": "Prof11",
+        "titre": "Cours4",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof11",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "Tableau",
+            "Semestre": "5ème année Design Graphique S2",
+            "Annee": "L3"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T17:00:00",
+            "dtEnd": "2026-04-04T18:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof10",
+        "titre": "Cours204",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof10",
+            "Secteur": "Design des mondes montagneux",
+            "Materiel": "Tableau",
+            "Semestre": "2ème année Art-Espace S1",
+            "Annee": "M1"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T15:00:00",
+            "dtEnd": "2026-04-04T17:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof6,Prof13",
+        "titre": "Cours181",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof6,Prof13",
+            "Secteur": "6ème ANNÉE STAGE",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "3ème année Design Objet S1",
+            "Annee": "M2"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T17:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle11",
+        "Prof_ID": "Prof18",
+        "titre": "Cours54",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof18",
+            "Secteur": "Design Objet",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Photo / Vidéo S2",
+            "Annee": "M2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T12:00:00",
+            "dtEnd": "2026-03-04T16:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof12",
+        "titre": "Cours157",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof12",
+            "Secteur": "Design Graphique",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "2ème année Cinéma d'Animation S2",
+            "Annee": "L2"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T11:00:00",
+            "dtEnd": "2026-03-03T14:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof12,Prof10",
+        "titre": "Cours230",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof12,Prof10",
+            "Secteur": "Design des mondes insulaires",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 2 S2",
+            "Annee": "L3"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T16:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof16",
+        "titre": "Cours224",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof16",
+            "Secteur": "Secteurs",
+            "Materiel": "",
+            "Semestre": "5ème année Design Objet S1",
+            "Annee": "M1"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T16:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof4",
+        "titre": "Cours193",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof4",
+            "Secteur": "Gr SYMBIOSE",
+            "Materiel": "",
+            "Semestre": "3ème année Architecture Intérieure S1",
+            "Annee": "L3"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T17:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle2",
+        "Prof_ID": "Prof8",
+        "titre": "Cours240",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof8",
+            "Secteur": "Gr REFLECTIVE INTERACTION",
+            "Materiel": "",
+            "Semestre": "2ème année Design Graphique S2",
+            "Annee": "L2"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T14:00:00",
+            "dtEnd": "2026-04-04T16:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof14,Prof19",
+        "titre": "Cours190",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof14,Prof19",
+            "Secteur": "Mode et Matière",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Image Imprimée S1",
+            "Annee": "L2"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T17:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle7",
+        "Prof_ID": "Prof5",
+        "titre": "Cours159",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof5",
+            "Secteur": "Architecture Intérieure",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Architecture Intérieure S2",
+            "Annee": "M2"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T11:00:00",
+            "dtEnd": "2026-04-04T15:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof7",
+        "titre": "Cours225",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof7",
+            "Secteur": "Design des mondes urbains",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Design Textile et Matière S1",
+            "Annee": "M2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-20T12:00:00",
+            "dtEnd": "2026-03-20T14:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof19",
+        "titre": "Cours48",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof19",
+            "Secteur": "Gr SYMBIOSE",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Art-Espace S1",
+            "Annee": "M2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T16:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof5",
+        "titre": "Cours77",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof5",
+            "Secteur": "Gr REFLECTIVE INTERACTION",
+            "Materiel": "Tableau",
+            "Semestre": "4ème année Design Graphique S2",
+            "Annee": "L3"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T18:00:00",
+            "dtEnd": "2026-04-02T20:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof10,Prof19",
+        "titre": "Cours85",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof10,Prof19",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "Tableau",
+            "Semestre": "3ème année Photo / Vidéo S1",
+            "Annee": "M2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-21T17:00:00",
+            "dtEnd": "2026-03-21T19:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof6",
+        "titre": "Cours6",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof6",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "",
+            "Semestre": "2ème année Design Textile et Matière S2",
+            "Annee": "M1"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T18:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle1",
+        "Prof_ID": "Prof14",
+        "titre": "Cours26",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof14",
+            "Secteur": "Design Objet",
+            "Materiel": "",
+            "Semestre": "4ème année Scénographie S2",
+            "Annee": "L1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-21T14:00:00",
+            "dtEnd": "2026-03-21T17:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof17,Prof7",
+        "titre": "Cours101",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof17,Prof7",
+            "Secteur": "Design Vêtement",
+            "Materiel": "Projecteur",
+            "Semestre": "3ème année Design Graphique S2",
+            "Annee": "L1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-01-12T11:00:00",
+            "dtEnd": "2026-01-12T14:00:00"
+        },
+        "salle": "Salle13",
+        "Prof_ID": "Prof1",
+        "titre": "Cours155",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof1",
+            "Secteur": "1ère année Groupe 3",
+            "Materiel": "",
+            "Semestre": "3ème année Photo / Vidéo S1",
+            "Annee": "M2"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T17:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof17",
+        "titre": "Cours229",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof17",
+            "Secteur": "6ème année atelier",
+            "Materiel": "",
+            "Semestre": "2ème année Art-Espace S1",
+            "Annee": "M1"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T14:00:00",
+            "dtEnd": "2026-03-03T17:00:00"
+        },
+        "salle": "Salle7",
+        "Prof_ID": "Prof17",
+        "titre": "Cours24",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof17",
+            "Secteur": "Design Textile et Matière",
+            "Materiel": "",
+            "Semestre": "4ème année Design Objet S2",
+            "Annee": "M2"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T08:00:00",
+            "dtEnd": "2026-03-01T12:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof18,Prof8",
+        "titre": "Cours246",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof18,Prof8",
+            "Secteur": "Gr REFLECTIVE INTERACTION",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "4ème année Scénographie S1",
+            "Annee": "L3"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T14:00:00",
+            "dtEnd": "2026-04-02T18:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof2",
+        "titre": "Cours264",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof2",
+            "Secteur": "Photo / Vidéo",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 3 S2",
+            "Annee": "M2"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-25T08:00:00",
+            "dtEnd": "2026-03-25T09:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof18",
+        "titre": "Cours261",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof18",
+            "Secteur": "Scénographie",
+            "Materiel": "Projecteur",
+            "Semestre": "1ère Année Groupe 3 S2",
+            "Annee": "M2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T16:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle28",
+        "Prof_ID": "Prof11",
+        "titre": "Cours51",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof11",
+            "Secteur": "1ère année Groupe 3",
+            "Materiel": "",
+            "Semestre": "Césure S1",
+            "Annee": "L1"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T08:00:00",
+            "dtEnd": "2026-03-03T09:00:00"
+        },
+        "salle": "Salle4",
+        "Prof_ID": "Prof2,Prof8",
+        "titre": "Cours120",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof2,Prof8",
+            "Secteur": "1ère année Groupe 4",
+            "Materiel": "",
+            "Semestre": "2ème année Architecture Intérieure S1",
+            "Annee": "M1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T16:00:00",
+            "dtEnd": "2026-03-03T17:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof1",
+        "titre": "Cours140",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof1",
+            "Secteur": "Image Imprimée",
+            "Materiel": "",
+            "Semestre": "2ème année Design Vêtement S2",
+            "Annee": "L2"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T08:00:00",
+            "dtEnd": "2026-03-04T12:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof1",
+        "titre": "Cours22",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof1",
+            "Secteur": "Secteurs",
+            "Materiel": "",
+            "Semestre": "2ème année Architecture Intérieure S1",
+            "Annee": "M1"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-11T18:00:00",
+            "dtEnd": "2026-03-11T20:00:00"
+        },
+        "salle": "Salle26",
+        "Prof_ID": "Prof6",
+        "titre": "Cours262",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof6",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "",
+            "Semestre": "4ème année Design Graphique S2",
+            "Annee": "M1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-07T13:00:00",
+            "dtEnd": "2026-02-07T15:00:00"
+        },
+        "salle": "Salle21",
+        "Prof_ID": "Prof2",
+        "titre": "Cours242",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof2",
+            "Secteur": "Cinéma d'Animation",
+            "Materiel": "",
+            "Semestre": "2ème année Design Objet S2",
+            "Annee": "L3"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T18:00:00",
+            "dtEnd": "2026-04-02T20:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof9",
+        "titre": "Cours134",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof9",
+            "Secteur": "Cinéma d'Animation",
+            "Materiel": "",
+            "Semestre": "4ème année Photo / Vidéo S1",
+            "Annee": "L2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T08:00:00",
+            "dtEnd": "2026-03-04T10:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof7",
+        "titre": "Cours44",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof7",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "4ème année Photo / Vidéo S1",
+            "Annee": "L2"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T10:00:00",
+            "dtEnd": "2026-03-04T12:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof16",
+        "titre": "Cours55",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof16",
+            "Secteur": "Mode et Matière",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Design Graphique S1",
+            "Annee": "M1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T13:00:00",
+            "dtEnd": "2026-04-04T14:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof2,Prof19",
+        "titre": "Cours239",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof2,Prof19",
+            "Secteur": "Secteurs",
+            "Materiel": "",
+            "Semestre": "4ème année Design Objet S2",
+            "Annee": "M2"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T13:00:00",
+            "dtEnd": "2026-03-02T17:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof15",
+        "titre": "Cours61",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof15",
+            "Secteur": "Design Vêtement",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "1ère Année Groupe 2 S2",
+            "Annee": "L1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T18:00:00",
+            "dtEnd": "2026-04-02T20:00:00"
+        },
+        "salle": "Salle24",
+        "Prof_ID": "Prof8",
+        "titre": "Cours184",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof8",
+            "Secteur": "6ème année atelier",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 3 S1",
+            "Annee": "L3"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T08:00:00",
+            "dtEnd": "2026-04-04T12:00:00"
+        },
+        "salle": "Salle15",
+        "Prof_ID": "Prof1",
+        "titre": "Cours87",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof1",
+            "Secteur": "Architecture Intérieure",
+            "Materiel": "",
+            "Semestre": "2ème année Image Imprimée S2",
+            "Annee": "L2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T19:00:00",
+            "dtEnd": "2026-03-04T20:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof13",
+        "titre": "Cours266",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof13",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Photo / Vidéo S2",
+            "Annee": "L1"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-28T13:00:00",
+            "dtEnd": "2026-02-28T14:00:00"
+        },
+        "salle": "Salle28",
+        "Prof_ID": "Prof5",
+        "titre": "Cours196",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof5",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "",
+            "Semestre": "5ème année Design Graphique S1",
+            "Annee": "L3"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T13:00:00",
+            "dtEnd": "2026-04-03T17:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof15,Prof19",
+        "titre": "Cours5",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof15,Prof19",
+            "Secteur": "Architecture Intérieure",
+            "Materiel": "",
+            "Semestre": "2ème année Photo / Vidéo S2",
+            "Annee": "M1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T08:00:00",
+            "dtEnd": "2026-04-01T11:00:00"
+        },
+        "salle": "Salle28",
+        "Prof_ID": "Prof17",
+        "titre": "Cours185",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof17",
+            "Secteur": "Image Imprimée",
+            "Materiel": "",
+            "Semestre": "2ème année Art-Espace S1",
+            "Annee": "L2"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-06T11:00:00",
+            "dtEnd": "2026-03-06T13:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof5",
+        "titre": "Cours68",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof5",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "",
+            "Semestre": "5ème année Design Vêtement S1",
+            "Annee": "L2"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-25T11:00:00",
+            "dtEnd": "2026-02-25T12:00:00"
+        },
+        "salle": "Salle13",
+        "Prof_ID": "Prof3",
+        "titre": "Cours23",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof3",
+            "Secteur": "Gr SYMBIOSE",
+            "Materiel": "",
+            "Semestre": "5ème année Photo / Vidéo S1",
+            "Annee": "M2"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T11:00:00",
+            "dtEnd": "2026-04-04T13:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof13",
+        "titre": "Cours123",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof13",
+            "Secteur": "Secteurs",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Photo / Vidéo S2",
+            "Annee": "M1"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T13:00:00",
+            "dtEnd": "2026-04-03T16:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof6",
+        "titre": "Cours8",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof6",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "",
+            "Semestre": "2ème année Design Textile et Matière S1",
+            "Annee": "M1"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-17T16:00:00",
+            "dtEnd": "2026-03-17T20:00:00"
+        },
+        "salle": "Salle29",
+        "Prof_ID": "Prof3",
+        "titre": "Cours232",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof3",
+            "Secteur": "Secteurs",
+            "Materiel": "",
+            "Semestre": "4ème année Design Vêtement S1",
+            "Annee": "M2"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T17:00:00",
+            "dtEnd": "2026-04-01T19:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof13",
+        "titre": "Cours217",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof13",
+            "Secteur": "Design Vêtement",
+            "Materiel": "Projecteur",
+            "Semestre": "5ème année Photo / Vidéo S1",
+            "Annee": "M1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T19:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof20",
+        "titre": "Cours256",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof20",
+            "Secteur": "Secteurs",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Art-Espace S2",
+            "Annee": "L1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-13T09:00:00",
+            "dtEnd": "2026-03-13T12:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof9",
+        "titre": "Cours165",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof9",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "1ère Année Groupe 1 S1",
+            "Annee": "L2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T08:00:00",
+            "dtEnd": "2026-03-04T12:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof8",
+        "titre": "Cours139",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof8",
+            "Secteur": "Scénographie",
+            "Materiel": "Tableau",
+            "Semestre": "5ème année Design Vêtement S2",
+            "Annee": "L2"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T12:00:00",
+            "dtEnd": "2026-03-01T14:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof9",
+        "titre": "Cours37",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof9",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "",
+            "Semestre": "2ème année Design Vêtement S2",
+            "Annee": "L3"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T15:00:00",
+            "dtEnd": "2026-04-03T18:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof2",
+        "titre": "Cours126",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof2",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "Tableau",
+            "Semestre": "5ème année Design Objet S2",
+            "Annee": "M2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T08:00:00",
+            "dtEnd": "2026-04-03T10:00:00"
+        },
+        "salle": "Salle2",
+        "Prof_ID": "Prof11",
+        "titre": "Cours247",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof11",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "",
+            "Semestre": "4ème année Design Objet S1",
+            "Annee": "L2"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T19:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle11",
+        "Prof_ID": "Prof5",
+        "titre": "Cours174",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof5",
+            "Secteur": "Image Imprimée",
+            "Materiel": "",
+            "Semestre": "4ème année Architecture Intérieure S1",
+            "Annee": "M2"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T08:00:00",
+            "dtEnd": "2026-04-03T11:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof17",
+        "titre": "Cours79",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof17",
+            "Secteur": "6ème ANNÉE STAGE",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "3ème année Photo / Vidéo S1",
+            "Annee": "M1"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-06T09:00:00",
+            "dtEnd": "2026-03-06T11:00:00"
+        },
+        "salle": "Salle13",
+        "Prof_ID": "Prof2",
+        "titre": "Cours12",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof2",
+            "Secteur": "Gr TERRITOIRES",
+            "Materiel": "",
+            "Semestre": "5ème année Design Objet S2",
+            "Annee": "L2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T16:00:00",
+            "dtEnd": "2026-04-01T18:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof3",
+        "titre": "Cours210",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof3",
+            "Secteur": "Design Textile et Matière",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Design Vêtement S2",
+            "Annee": "M1"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T08:00:00",
+            "dtEnd": "2026-04-04T11:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof2",
+        "titre": "Cours199",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof2",
+            "Secteur": "Design des mondes ruraux",
+            "Materiel": "",
+            "Semestre": "4ème année Photo / Vidéo S1",
+            "Annee": "L1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T17:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle26",
+        "Prof_ID": "Prof11",
+        "titre": "Cours28",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof11",
+            "Secteur": "Design des mondes insulaires",
+            "Materiel": "",
+            "Semestre": "2ème année Design Textile et Matière S2",
+            "Annee": "L3"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T16:00:00",
+            "dtEnd": "2026-03-02T20:00:00"
+        },
+        "salle": "Salle14",
+        "Prof_ID": "Prof14",
+        "titre": "Cours163",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof14",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "",
+            "Semestre": "2ème année Design Vêtement S1",
+            "Annee": "L3"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T12:00:00",
+            "dtEnd": "2026-03-03T14:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof18,Prof1",
+        "titre": "Cours11",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof18,Prof1",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "Tableau",
+            "Semestre": "2ème année Photo / Vidéo S1",
+            "Annee": "L2"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-24T12:00:00",
+            "dtEnd": "2026-03-24T16:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof19",
+        "titre": "Cours169",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof19",
+            "Secteur": "Design Objet",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 1 S2",
+            "Annee": "L2"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T18:00:00",
+            "dtEnd": "2026-04-04T20:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof13,Prof10",
+        "titre": "Cours52",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof13,Prof10",
+            "Secteur": "6ème ANNÉE STAGE",
+            "Materiel": "",
+            "Semestre": "5ème année Art-Espace S2",
+            "Annee": "L2"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-10T11:00:00",
+            "dtEnd": "2026-03-10T15:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof7",
+        "titre": "Cours205",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof7",
+            "Secteur": "Design Textile et Matière",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "Césure S2",
+            "Annee": "M2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T08:00:00",
+            "dtEnd": "2026-04-01T12:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof8",
+        "titre": "Cours194",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof8",
+            "Secteur": "Art-Espace",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "4ème année Scénographie S2",
+            "Annee": "M1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-10T15:00:00",
+            "dtEnd": "2026-03-10T18:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof14",
+        "titre": "Cours160",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof14",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Design Textile et Matière S1",
+            "Annee": "M1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-12T14:00:00",
+            "dtEnd": "2026-03-12T16:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof9",
+        "titre": "Cours131",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof9",
+            "Secteur": "Design Vêtement",
+            "Materiel": "",
+            "Semestre": "5ème année Art-Espace S1",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-07T09:00:00",
+            "dtEnd": "2026-02-07T13:00:00"
+        },
+        "salle": "Salle21",
+        "Prof_ID": "Prof1",
+        "titre": "Cours114",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof1",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "",
+            "Semestre": "4ème année Design Vêtement S1",
+            "Annee": "M1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T08:00:00",
+            "dtEnd": "2026-03-03T10:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof14",
+        "titre": "Cours153",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof14",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "Projecteur",
+            "Semestre": "2ème année Photo / Vidéo S2",
+            "Annee": "L1"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T08:00:00",
+            "dtEnd": "2026-04-01T12:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof1,Prof20",
+        "titre": "Cours32",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof1,Prof20",
+            "Secteur": "Photo / Vidéo",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "2ème année Image Imprimée S1",
+            "Annee": "M1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T08:00:00",
+            "dtEnd": "2026-03-03T12:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof1,Prof1",
+        "titre": "Cours17",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof1,Prof1",
+            "Secteur": "Gr REFLECTIVE INTERACTION",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "2ème année Design Vêtement S1",
+            "Annee": "L3"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-18T11:00:00",
+            "dtEnd": "2026-03-18T12:00:00"
+        },
+        "salle": "Salle26",
+        "Prof_ID": "Prof2",
+        "titre": "Cours238",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof2",
+            "Secteur": "1ère année Groupe 4",
+            "Materiel": "",
+            "Semestre": "Césure S1",
+            "Annee": "L3"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-25T16:00:00",
+            "dtEnd": "2026-03-25T17:00:00"
+        },
+        "salle": "Salle6",
+        "Prof_ID": "Prof2,Prof4",
+        "titre": "Cours13",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof2,Prof4",
+            "Secteur": "Image Imprimée",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 4 S1",
+            "Annee": "L1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T13:00:00",
+            "dtEnd": "2026-03-02T17:00:00"
+        },
+        "salle": "Salle29",
+        "Prof_ID": "Prof20",
+        "titre": "Cours202",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof20",
+            "Secteur": "Design Textile et Matière",
+            "Materiel": "Projecteur",
+            "Semestre": "5ème année Scénographie S1",
+            "Annee": "M1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T08:00:00",
+            "dtEnd": "2026-04-01T10:00:00"
+        },
+        "salle": "Salle27",
+        "Prof_ID": "Prof6",
+        "titre": "Cours255",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof6",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "",
+            "Semestre": "2ème année Architecture Intérieure S2",
+            "Annee": "M2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-18T19:00:00",
+            "dtEnd": "2026-03-18T20:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof3,Prof5",
+        "titre": "Cours137",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof3,Prof5",
+            "Secteur": "Image Imprimée",
+            "Materiel": "",
+            "Semestre": "2ème année Design Graphique S1",
+            "Annee": "L3"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-15T10:00:00",
+            "dtEnd": "2026-03-15T13:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof18",
+        "titre": "Cours34",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof18",
+            "Secteur": "1ère année Groupe 4",
+            "Materiel": "",
+            "Semestre": "4ème année Cinéma d'Animation S2",
+            "Annee": "L1"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T13:00:00",
+            "dtEnd": "2026-04-01T17:00:00"
+        },
+        "salle": "Salle26",
+        "Prof_ID": "Prof8,Prof16",
+        "titre": "Cours111",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof8,Prof16",
+            "Secteur": "Gr TERRITOIRES",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 2 S1",
+            "Annee": "L2"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T16:00:00",
+            "dtEnd": "2026-03-01T20:00:00"
+        },
+        "salle": "Salle6",
+        "Prof_ID": "Prof6",
+        "titre": "Cours53",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof6",
+            "Secteur": "Scénographie",
+            "Materiel": "",
+            "Semestre": "5ème année Design Textile et Matière S1",
+            "Annee": "L1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T10:00:00",
+            "dtEnd": "2026-04-04T11:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof14,Prof6",
+        "titre": "Cours88",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof14,Prof6",
+            "Secteur": "Design des mondes urbains",
+            "Materiel": "Projecteur",
+            "Semestre": "3ème année Design Graphique S1",
+            "Annee": "M2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-20T12:00:00",
+            "dtEnd": "2026-02-20T14:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof14,Prof8",
+        "titre": "Cours176",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof14,Prof8",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "",
+            "Semestre": "3ème année Architecture Intérieure S1",
+            "Annee": "L1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T12:00:00",
+            "dtEnd": "2026-04-03T13:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof16",
+        "titre": "Cours263",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof16",
+            "Secteur": "Design des mondes insulaires",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "3ème année Art-Espace S1",
+            "Annee": "L2"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-21T13:00:00",
+            "dtEnd": "2026-03-21T14:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof10,Prof7",
+        "titre": "Cours150",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof10,Prof7",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 2 S1",
+            "Annee": "L1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-12T10:00:00",
+            "dtEnd": "2026-02-12T14:00:00"
+        },
+        "salle": "Salle27",
+        "Prof_ID": "Prof11",
+        "titre": "Cours187",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof11",
+            "Secteur": "Mode et Matière",
+            "Materiel": "Tableau",
+            "Semestre": "1ère Année Groupe 3 S2",
+            "Annee": "M1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T19:00:00",
+            "dtEnd": "2026-03-04T20:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof16,Prof8",
+        "titre": "Cours1",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof16,Prof8",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "",
+            "Semestre": "3ème année Image Imprimée S1",
+            "Annee": "L1"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-21T10:00:00",
+            "dtEnd": "2026-03-21T13:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof8,Prof1",
+        "titre": "Cours89",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof8,Prof1",
+            "Secteur": "1ère année Groupe 4",
+            "Materiel": "Projecteur",
+            "Semestre": "2ème année Design Graphique S1",
+            "Annee": "M1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-25T15:00:00",
+            "dtEnd": "2026-02-25T17:00:00"
+        },
+        "salle": "Salle10",
+        "Prof_ID": "Prof10",
+        "titre": "Cours215",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof10",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "",
+            "Semestre": "4ème année Design Vêtement S2",
+            "Annee": "L3"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T17:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof4",
+        "titre": "Cours112",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof4",
+            "Secteur": "Architecture Intérieure",
+            "Materiel": "",
+            "Semestre": "2ème année Design Vêtement S1",
+            "Annee": "L2"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T08:00:00",
+            "dtEnd": "2026-03-01T12:00:00"
+        },
+        "salle": "Salle2",
+        "Prof_ID": "Prof9,Prof10",
+        "titre": "Cours60",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof9,Prof10",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 4 S2",
+            "Annee": "M1"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-01-24T10:00:00",
+            "dtEnd": "2026-01-24T14:00:00"
+        },
+        "salle": "Salle27",
+        "Prof_ID": "Prof12",
+        "titre": "Cours41",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof12",
+            "Secteur": "Design des mondes ruraux",
+            "Materiel": "",
+            "Semestre": "5ème année Design Graphique S1",
+            "Annee": "M2"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T09:00:00",
+            "dtEnd": "2026-04-04T11:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof19",
+        "titre": "Cours7",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof19",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "1ère Année Groupe 3 S2",
+            "Annee": "M2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T14:00:00",
+            "dtEnd": "2026-04-01T17:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof7",
+        "titre": "Cours103",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof7",
+            "Secteur": "Design Graphique",
+            "Materiel": "Projecteur",
+            "Semestre": "3ème année Cinéma d'Animation S1",
+            "Annee": "L1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-28T11:00:00",
+            "dtEnd": "2026-02-28T13:00:00"
+        },
+        "salle": "Salle28",
+        "Prof_ID": "Prof3",
+        "titre": "Cours182",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof3",
+            "Secteur": "1ère année Groupe 3",
+            "Materiel": "",
+            "Semestre": "3ème année Architecture Intérieure S2",
+            "Annee": "M1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T08:00:00",
+            "dtEnd": "2026-03-01T10:00:00"
+        },
+        "salle": "Salle6",
+        "Prof_ID": "Prof13,Prof6",
+        "titre": "Cours144",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof13,Prof6",
+            "Secteur": "Design des mondes insulaires",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Image Imprimée S1",
+            "Annee": "L2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-01-07T11:00:00",
+            "dtEnd": "2026-01-07T13:00:00"
+        },
+        "salle": "Salle6",
+        "Prof_ID": "Prof1",
+        "titre": "Cours106",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof1",
+            "Secteur": "Gr SYMBIOSE",
+            "Materiel": "",
+            "Semestre": "2ème année Photo / Vidéo S1",
+            "Annee": "L2"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T08:00:00",
+            "dtEnd": "2026-04-03T11:00:00"
+        },
+        "salle": "Salle28",
+        "Prof_ID": "Prof8",
+        "titre": "Cours254",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof8",
+            "Secteur": "Scénographie",
+            "Materiel": "",
+            "Semestre": "5ème année Art-Espace S1",
+            "Annee": "L1"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T16:00:00",
+            "dtEnd": "2026-04-04T17:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof16,Prof10",
+        "titre": "Cours97",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof16,Prof10",
+            "Secteur": "1ère année Groupe 4",
+            "Materiel": "",
+            "Semestre": "5ème année Design Vêtement S2",
+            "Annee": "L1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T18:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle27",
+        "Prof_ID": "Prof3,Prof9",
+        "titre": "Cours20",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof3,Prof9",
+            "Secteur": "Mode et Matière",
+            "Materiel": "",
+            "Semestre": "2ème année Design Vêtement S2",
+            "Annee": "L2"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T13:00:00",
+            "dtEnd": "2026-03-02T16:00:00"
+        },
+        "salle": "Salle14",
+        "Prof_ID": "Prof16",
+        "titre": "Cours110",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof16",
+            "Secteur": "Mode et Matière",
+            "Materiel": "",
+            "Semestre": "4ème année Scénographie S1",
+            "Annee": "M1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-28T08:00:00",
+            "dtEnd": "2026-03-28T12:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof5",
+        "titre": "Cours250",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof5",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Design Textile et Matière S1",
+            "Annee": "L3"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T18:00:00",
+            "dtEnd": "2026-04-02T20:00:00"
+        },
+        "salle": "Salle29",
+        "Prof_ID": "Prof12",
+        "titre": "Cours65",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof12",
+            "Secteur": "Design des mondes montagneux",
+            "Materiel": "Projecteur",
+            "Semestre": "2ème année Design Textile et Matière S2",
+            "Annee": "L1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T09:00:00",
+            "dtEnd": "2026-03-04T10:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof10",
+        "titre": "Cours222",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof10",
+            "Secteur": "Design Textile et Matière",
+            "Materiel": "Tableau",
+            "Semestre": "4ème année Photo / Vidéo S2",
+            "Annee": "L2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T08:00:00",
+            "dtEnd": "2026-03-04T10:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof14",
+        "titre": "Cours152",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof14",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "",
+            "Semestre": "2ème année Cinéma d'Animation S1",
+            "Annee": "L2"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-26T14:00:00",
+            "dtEnd": "2026-03-26T18:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof9",
+        "titre": "Cours197",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof9",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "",
+            "Semestre": "5ème année Scénographie S2",
+            "Annee": "L2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-22T17:00:00",
+            "dtEnd": "2026-03-22T20:00:00"
+        },
+        "salle": "Salle11",
+        "Prof_ID": "Prof1,Prof2",
+        "titre": "Cours161",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof1,Prof2",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Design Objet S2",
+            "Annee": "L1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-05T09:00:00",
+            "dtEnd": "2026-03-05T11:00:00"
+        },
+        "salle": "Salle27",
+        "Prof_ID": "Prof4",
+        "titre": "Cours219",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof4",
+            "Secteur": "Design des mondes insulaires",
+            "Materiel": "Tableau",
+            "Semestre": "5ème année Image Imprimée S1",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T11:00:00",
+            "dtEnd": "2026-04-03T12:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof18",
+        "titre": "Cours216",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof18",
+            "Secteur": "Photo / Vidéo",
+            "Materiel": "",
+            "Semestre": "5ème année Photo / Vidéo S1",
+            "Annee": "M2"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T16:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle21",
+        "Prof_ID": "Prof12",
+        "titre": "Cours258",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof12",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "",
+            "Semestre": "4ème année Design Vêtement S1",
+            "Annee": "M2"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-22T10:00:00",
+            "dtEnd": "2026-02-22T14:00:00"
+        },
+        "salle": "Salle26",
+        "Prof_ID": "Prof8",
+        "titre": "Cours146",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof8",
+            "Secteur": "1ère année Groupe 3",
+            "Materiel": "Tableau",
+            "Semestre": "3ème année Design Textile et Matière S1",
+            "Annee": "L1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T12:00:00",
+            "dtEnd": "2026-03-03T16:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof7",
+        "titre": "Cours76",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof7",
+            "Secteur": "Scénographie",
+            "Materiel": "Projecteur",
+            "Semestre": "2ème année Image Imprimée S2",
+            "Annee": "M1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T18:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle2",
+        "Prof_ID": "Prof20",
+        "titre": "Cours80",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof20",
+            "Secteur": "Gr REFLECTIVE INTERACTION",
+            "Materiel": "",
+            "Semestre": "2ème année Image Imprimée S1",
+            "Annee": "M2"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-15T16:00:00",
+            "dtEnd": "2026-03-15T19:00:00"
+        },
+        "salle": "Salle7",
+        "Prof_ID": "Prof10",
+        "titre": "Cours166",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof10",
+            "Secteur": "Gr REFLECTIVE INTERACTION",
+            "Materiel": "",
+            "Semestre": "3ème année Design Textile et Matière S1",
+            "Annee": "L1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-23T09:00:00",
+            "dtEnd": "2026-03-23T11:00:00"
+        },
+        "salle": "Salle24",
+        "Prof_ID": "Prof6",
+        "titre": "Cours203",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof6",
+            "Secteur": "Design Textile et Matière",
+            "Materiel": "",
+            "Semestre": "4ème année Design Graphique S1",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T19:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle11",
+        "Prof_ID": "Prof20",
+        "titre": "Cours107",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof20",
+            "Secteur": "Secteurs",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Image Imprimée S1",
+            "Annee": "L2"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T08:00:00",
+            "dtEnd": "2026-04-01T10:00:00"
+        },
+        "salle": "Salle6",
+        "Prof_ID": "Prof18",
+        "titre": "Cours108",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof18",
+            "Secteur": "Design Vêtement",
+            "Materiel": "Projecteur",
+            "Semestre": "1ère Année Groupe 1 S2",
+            "Annee": "M2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T14:00:00",
+            "dtEnd": "2026-04-02T18:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof6",
+        "titre": "Cours175",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof6",
+            "Secteur": "Art-Espace",
+            "Materiel": "",
+            "Semestre": "3ème année Scénographie S1",
+            "Annee": "L3"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-01-09T14:00:00",
+            "dtEnd": "2026-01-09T16:00:00"
+        },
+        "salle": "Salle20",
+        "Prof_ID": "Prof3",
+        "titre": "Cours133",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof3",
+            "Secteur": "Mode et Matière",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Scénographie S2",
+            "Annee": "L2"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-19T10:00:00",
+            "dtEnd": "2026-03-19T11:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof19",
+        "titre": "Cours231",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof19",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "Tableau",
+            "Semestre": "4ème année Design Textile et Matière S2",
+            "Annee": "M1"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-19T08:00:00",
+            "dtEnd": "2026-03-19T09:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof17",
+        "titre": "Cours167",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof17",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "3ème année Image Imprimée S1",
+            "Annee": "L3"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-01-23T16:00:00",
+            "dtEnd": "2026-01-23T17:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof11",
+        "titre": "Cours121",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof11",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "Tableau",
+            "Semestre": "2ème année Image Imprimée S1",
+            "Annee": "L3"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T10:00:00",
+            "dtEnd": "2026-03-01T13:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof13",
+        "titre": "Cours145",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof13",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "",
+            "Semestre": "5ème année Image Imprimée S1",
+            "Annee": "M2"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T08:00:00",
+            "dtEnd": "2026-03-01T11:00:00"
+        },
+        "salle": "Salle1",
+        "Prof_ID": "Prof11",
+        "titre": "Cours84",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof11",
+            "Secteur": "Design Objet",
+            "Materiel": "",
+            "Semestre": "4ème année Art-Espace S1",
+            "Annee": "M2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T15:00:00",
+            "dtEnd": "2026-03-04T17:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof8,Prof6",
+        "titre": "Cours233",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof8,Prof6",
+            "Secteur": "Design des mondes insulaires",
+            "Materiel": "Projecteur",
+            "Semestre": "3ème année Design Graphique S1",
+            "Annee": "M2"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T11:00:00",
+            "dtEnd": "2026-03-04T15:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof9",
+        "titre": "Cours186",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof9",
+            "Secteur": "Gr TERRITOIRES",
+            "Materiel": "Projecteur",
+            "Semestre": "2ème année Design Vêtement S2",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T14:00:00",
+            "dtEnd": "2026-03-04T18:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof2,Prof4",
+        "titre": "Cours209",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof2,Prof4",
+            "Secteur": "Design Textile et Matière",
+            "Materiel": "Tableau",
+            "Semestre": "3ème année Design Vêtement S2",
+            "Annee": "M1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T08:00:00",
+            "dtEnd": "2026-03-01T11:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof2",
+        "titre": "Cours218",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof2",
+            "Secteur": "Art-Espace",
+            "Materiel": "Projecteur",
+            "Semestre": "1ère Année Groupe 1 S1",
+            "Annee": "M1"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T08:00:00",
+            "dtEnd": "2026-04-02T12:00:00"
+        },
+        "salle": "Salle14",
+        "Prof_ID": "Prof19",
+        "titre": "Cours188",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof19",
+            "Secteur": "Cinéma d'Animation",
+            "Materiel": "",
+            "Semestre": "5ème année Design Textile et Matière S1",
+            "Annee": "L2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-16T11:00:00",
+            "dtEnd": "2026-03-16T14:00:00"
+        },
+        "salle": "Salle26",
+        "Prof_ID": "Prof4",
+        "titre": "Cours265",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof4",
+            "Secteur": "6ème ANNÉE STAGE",
+            "Materiel": "",
+            "Semestre": "4ème année Architecture Intérieure S2",
+            "Annee": "L1"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-23T13:00:00",
+            "dtEnd": "2026-03-23T15:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof17",
+        "titre": "Cours99",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof17",
+            "Secteur": "Design des mondes urbains",
+            "Materiel": "Tableau",
+            "Semestre": "2ème année Cinéma d'Animation S1",
+            "Annee": "L1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T11:00:00",
+            "dtEnd": "2026-03-02T13:00:00"
+        },
+        "salle": "Salle29",
+        "Prof_ID": "Prof19,Prof2",
+        "titre": "Cours116",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof19,Prof2",
+            "Secteur": "Design des mondes ruraux",
+            "Materiel": "",
+            "Semestre": "5ème année Scénographie S2",
+            "Annee": "M2"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T16:00:00",
+            "dtEnd": "2026-03-04T19:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof14",
+        "titre": "Cours245",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof14",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "4ème année Photo / Vidéo S2",
+            "Annee": "L2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T14:00:00",
+            "dtEnd": "2026-03-01T15:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof11",
+        "titre": "Cours149",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof11",
+            "Secteur": "1ère année Groupe 4",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "5ème année Design Graphique S2",
+            "Annee": "M1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T19:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle1",
+        "Prof_ID": "Prof2,Prof5",
+        "titre": "Cours73",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof2,Prof5",
+            "Secteur": "6ème année atelier",
+            "Materiel": "Tableau",
+            "Semestre": "4ème année Cinéma d'Animation S1",
+            "Annee": "L3"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T17:00:00",
+            "dtEnd": "2026-04-02T20:00:00"
+        },
+        "salle": "Salle4",
+        "Prof_ID": "Prof4,Prof20",
+        "titre": "Cours183",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof4,Prof20",
+            "Secteur": "1ère année Groupe 4",
+            "Materiel": "",
+            "Semestre": "5ème année Cinéma d'Animation S1",
+            "Annee": "M2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-26T13:00:00",
+            "dtEnd": "2026-03-26T14:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof6",
+        "titre": "Cours207",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof6",
+            "Secteur": "Gr SPATIAL MEDIA",
+            "Materiel": "",
+            "Semestre": "2ème année Image Imprimée S1",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T12:00:00",
+            "dtEnd": "2026-04-03T14:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof12",
+        "titre": "Cours104",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof12",
+            "Secteur": "Gr REFLECTIVE INTERACTION",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "4ème année Art-Espace S2",
+            "Annee": "L1"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T08:00:00",
+            "dtEnd": "2026-03-04T11:00:00"
+        },
+        "salle": "Salle30",
+        "Prof_ID": "Prof6,Prof3",
+        "titre": "Cours42",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof6,Prof3",
+            "Secteur": "6ème année atelier",
+            "Materiel": "",
+            "Semestre": "3ème année Design Vêtement S2",
+            "Annee": "L1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-20T12:00:00",
+            "dtEnd": "2026-02-20T16:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof17",
+        "titre": "Cours221",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof17",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "",
+            "Semestre": "1ère Année Groupe 2 S2",
+            "Annee": "L2"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T18:00:00",
+            "dtEnd": "2026-03-01T19:00:00"
+        },
+        "salle": "Salle14",
+        "Prof_ID": "Prof20",
+        "titre": "Cours236",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof20",
+            "Secteur": "Cinéma d'Animation",
+            "Materiel": "",
+            "Semestre": "5ème année Design Vêtement S1",
+            "Annee": "M1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T10:00:00",
+            "dtEnd": "2026-04-02T14:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof18",
+        "titre": "Cours35",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof18",
+            "Secteur": "Gr SPATIAL MEDIA",
+            "Materiel": "",
+            "Semestre": "5ème année Design Textile et Matière S1",
+            "Annee": "L2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-01-23T12:00:00",
+            "dtEnd": "2026-01-23T16:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof14",
+        "titre": "Cours105",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof14",
+            "Secteur": "Design des mondes ruraux",
+            "Materiel": "",
+            "Semestre": "3ème année Design Vêtement S1",
+            "Annee": "L2"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-05T11:00:00",
+            "dtEnd": "2026-03-05T15:00:00"
+        },
+        "salle": "Salle27",
+        "Prof_ID": "Prof10",
+        "titre": "Cours212",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof10",
+            "Secteur": "Gr TERRITOIRES",
+            "Materiel": "Tableau",
+            "Semestre": "1ère Année Groupe 2 S2",
+            "Annee": "L3"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-13T08:00:00",
+            "dtEnd": "2026-03-13T09:00:00"
+        },
+        "salle": "Salle17",
+        "Prof_ID": "Prof14",
+        "titre": "Cours115",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof14",
+            "Secteur": "Image Imprimée",
+            "Materiel": "Tableau",
+            "Semestre": "3ème année Design Objet S1",
+            "Annee": "M2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T15:00:00",
+            "dtEnd": "2026-04-01T16:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof18",
+        "titre": "Cours228",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof18",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "1ère Année Groupe 2 S2",
+            "Annee": "M1"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T17:00:00",
+            "dtEnd": "2026-03-02T20:00:00"
+        },
+        "salle": "Salle8",
+        "Prof_ID": "Prof4,Prof20",
+        "titre": "Cours249",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof4,Prof20",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "",
+            "Semestre": "3ème année Design Objet S2",
+            "Annee": "M2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T17:00:00",
+            "dtEnd": "2026-03-02T20:00:00"
+        },
+        "salle": "Salle11",
+        "Prof_ID": "Prof5",
+        "titre": "Cours69",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof5",
+            "Secteur": "6ème année atelier",
+            "Materiel": "Projecteur",
+            "Semestre": "3ème année Design Objet S2",
+            "Annee": "M1"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T17:00:00",
+            "dtEnd": "2026-03-01T19:00:00"
+        },
+        "salle": "Salle21",
+        "Prof_ID": "Prof13",
+        "titre": "Cours142",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof13",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "",
+            "Semestre": "5ème année Design Vêtement S1",
+            "Annee": "L1"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T12:00:00",
+            "dtEnd": "2026-04-03T16:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof14",
+        "titre": "Cours45",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof14",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "1ère Année Groupe 2 S1",
+            "Annee": "L3"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-01-23T14:00:00",
+            "dtEnd": "2026-01-23T15:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof13",
+        "titre": "Cours3",
+        "props": {
+            "Groupe": "G5",
+            "Prof": "Prof13",
+            "Secteur": "6ème année atelier",
+            "Materiel": "",
+            "Semestre": "3ème année Architecture Intérieure S1",
+            "Annee": "L3"
+        },
+        "group": "G5"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-15T15:00:00",
+            "dtEnd": "2026-03-15T17:00:00"
+        },
+        "salle": "Salle15",
+        "Prof_ID": "Prof14",
+        "titre": "Cours33",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof14",
+            "Secteur": "Secteurs",
+            "Materiel": "",
+            "Semestre": "4ème année Photo / Vidéo S1",
+            "Annee": "M2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-18T11:00:00",
+            "dtEnd": "2026-03-18T12:00:00"
+        },
+        "salle": "Salle14",
+        "Prof_ID": "Prof4",
+        "titre": "Cours98",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof4",
+            "Secteur": "Cinéma d'Animation",
+            "Materiel": "",
+            "Semestre": "2ème année Image Imprimée S1",
+            "Annee": "M1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T12:00:00",
+            "dtEnd": "2026-03-01T16:00:00"
+        },
+        "salle": "Salle6",
+        "Prof_ID": "Prof14",
+        "titre": "Cours38",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof14",
+            "Secteur": "Design Objet",
+            "Materiel": "",
+            "Semestre": "5ème année Design Graphique S2",
+            "Annee": "L3"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T14:00:00",
+            "dtEnd": "2026-04-01T17:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof2",
+        "titre": "Cours100",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof2",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "",
+            "Semestre": "4ème année Photo / Vidéo S2",
+            "Annee": "M1"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-18T10:00:00",
+            "dtEnd": "2026-03-18T14:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof15",
+        "titre": "Cours25",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof15",
+            "Secteur": "Gr REFLECTIVE INTERACTION",
+            "Materiel": "",
+            "Semestre": "5ème année Cinéma d'Animation S1",
+            "Annee": "L3"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T17:00:00",
+            "dtEnd": "2026-04-01T20:00:00"
+        },
+        "salle": "Salle6",
+        "Prof_ID": "Prof8",
+        "titre": "Cours91",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof8",
+            "Secteur": "Art-Espace",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Design Textile et Matière S1",
+            "Annee": "M1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T12:00:00",
+            "dtEnd": "2026-04-01T14:00:00"
+        },
+        "salle": "Salle12",
+        "Prof_ID": "Prof20",
+        "titre": "Cours253",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof20",
+            "Secteur": "Art-Espace",
+            "Materiel": "Tableau",
+            "Semestre": "2ème année Image Imprimée S2",
+            "Annee": "L3"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-02-27T11:00:00",
+            "dtEnd": "2026-02-27T15:00:00"
+        },
+        "salle": "Salle26",
+        "Prof_ID": "Prof1,Prof9",
+        "titre": "Cours143",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof1,Prof9",
+            "Secteur": "Architecture Intérieure",
+            "Materiel": "",
+            "Semestre": "3ème année Design Objet S1",
+            "Annee": "M2"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T14:00:00",
+            "dtEnd": "2026-04-01T17:00:00"
+        },
+        "salle": "Salle1",
+        "Prof_ID": "Prof13",
+        "titre": "Cours49",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof13",
+            "Secteur": "Design des mondes forestiers",
+            "Materiel": "",
+            "Semestre": "2ème année Design Vêtement S1",
+            "Annee": "L3"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T11:00:00",
+            "dtEnd": "2026-04-03T13:00:00"
+        },
+        "salle": "Salle23",
+        "Prof_ID": "Prof2",
+        "titre": "Cours86",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof2",
+            "Secteur": "Gr SPATIAL MEDIA",
+            "Materiel": "",
+            "Semestre": "4ème année Design Graphique S2",
+            "Annee": "M2"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T17:00:00",
+            "dtEnd": "2026-04-02T20:00:00"
+        },
+        "salle": "Salle28",
+        "Prof_ID": "Prof5",
+        "titre": "Cours168",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof5",
+            "Secteur": "Art-Espace",
+            "Materiel": "",
+            "Semestre": "4ème année Photo / Vidéo S2",
+            "Annee": "M1"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T12:00:00",
+            "dtEnd": "2026-04-01T16:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof10",
+        "titre": "Cours118",
+        "props": {
+            "Groupe": "G9",
+            "Prof": "Prof10",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "",
+            "Semestre": "2ème année Design Graphique S1",
+            "Annee": "M2"
+        },
+        "group": "G9"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-01T16:00:00",
+            "dtEnd": "2026-03-01T17:00:00"
+        },
+        "salle": "Salle21",
+        "Prof_ID": "Prof13",
+        "titre": "Cours75",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof13",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "",
+            "Semestre": "3ème année Image Imprimée S1",
+            "Annee": "M2"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T16:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle19",
+        "Prof_ID": "Prof7,Prof1",
+        "titre": "Cours195",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof7,Prof1",
+            "Secteur": "Design des mondes littoraux",
+            "Materiel": "",
+            "Semestre": "4ème année Photo / Vidéo S2",
+            "Annee": "M1"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T16:00:00",
+            "dtEnd": "2026-03-03T20:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof2",
+        "titre": "Cours234",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof2",
+            "Secteur": "Scénographie",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "2ème année Design Graphique S2",
+            "Annee": "M2"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-04T10:00:00",
+            "dtEnd": "2026-03-04T14:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof17,Prof7",
+        "titre": "Cours83",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof17,Prof7",
+            "Secteur": "Art-Espace",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "4ème année Architecture Intérieure S1",
+            "Annee": "L3"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-04T13:00:00",
+            "dtEnd": "2026-04-04T16:00:00"
+        },
+        "salle": "Salle16",
+        "Prof_ID": "Prof20",
+        "titre": "Cours208",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof20",
+            "Secteur": "Secteurs",
+            "Materiel": "",
+            "Semestre": "4ème année Design Graphique S1",
+            "Annee": "M2"
+        },
+        "group": "G8"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T17:00:00",
+            "dtEnd": "2026-04-03T20:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof10",
+        "titre": "Cours200",
+        "props": {
+            "Groupe": "G7",
+            "Prof": "Prof10",
+            "Secteur": "1ère année Groupe 2",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "3ème année Design Graphique S2",
+            "Annee": "M1"
+        },
+        "group": "G7"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T09:00:00",
+            "dtEnd": "2026-03-02T13:00:00"
+        },
+        "salle": "Salle14",
+        "Prof_ID": "Prof13",
+        "titre": "Cours21",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof13",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "",
+            "Semestre": "3ème année Design Objet S1",
+            "Annee": "M2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-03T08:00:00",
+            "dtEnd": "2026-04-03T12:00:00"
+        },
+        "salle": "Salle5",
+        "Prof_ID": "Prof16,Prof3",
+        "titre": "Cours40",
+        "props": {
+            "Groupe": "G4",
+            "Prof": "Prof16,Prof3",
+            "Secteur": "Architecture Intérieure",
+            "Materiel": "Projecteur",
+            "Semestre": "4ème année Photo / Vidéo S2",
+            "Annee": "M1"
+        },
+        "group": "G4"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-20T10:00:00",
+            "dtEnd": "2026-03-20T14:00:00"
+        },
+        "salle": "Salle11",
+        "Prof_ID": "Prof7,Prof16",
+        "titre": "Cours90",
+        "props": {
+            "Groupe": "G6",
+            "Prof": "Prof7,Prof16",
+            "Secteur": "Photo / Vidéo",
+            "Materiel": "Projecteur",
+            "Semestre": "2ème année Art-Espace S2",
+            "Annee": "L3"
+        },
+        "group": "G6"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-01T12:00:00",
+            "dtEnd": "2026-04-01T15:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof4,Prof6",
+        "titre": "Cours102",
+        "props": {
+            "Groupe": "G2",
+            "Prof": "Prof4,Prof6",
+            "Secteur": "Gr SOFT MATTERS",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "2ème année Design Textile et Matière S2",
+            "Annee": "L2"
+        },
+        "group": "G2"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-03T08:00:00",
+            "dtEnd": "2026-03-03T10:00:00"
+        },
+        "salle": "Salle11",
+        "Prof_ID": "Prof20,Prof11",
+        "titre": "Cours64",
+        "props": {
+            "Groupe": "G1",
+            "Prof": "Prof20,Prof11",
+            "Secteur": "1ère année Groupe 3",
+            "Materiel": "",
+            "Semestre": "Semestre",
+            "Annee": "M2"
+        },
+        "group": "G1"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-02T08:00:00",
+            "dtEnd": "2026-03-02T10:00:00"
+        },
+        "salle": "Salle2",
+        "Prof_ID": "Prof6,Prof20",
+        "titre": "Cours71",
+        "props": {
+            "Groupe": "G3",
+            "Prof": "Prof6,Prof20",
+            "Secteur": "Design des mondes urbains",
+            "Materiel": "",
+            "Semestre": "Semestre",
+            "Annee": "M2"
+        },
+        "group": "G3"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-04-02T12:00:00",
+            "dtEnd": "2026-04-02T16:00:00"
+        },
+        "salle": "Salle14",
+        "Prof_ID": "Prof20,Prof13",
+        "titre": "Cours93",
+        "props": {
+            "Groupe": "G10",
+            "Prof": "Prof20,Prof13",
+            "Secteur": "Gr ART, DESIGN, SOCIETE",
+            "Materiel": "",
+            "Semestre": "5ème année Cinéma d'Animation S2",
+            "Annee": "L3"
+        },
+        "group": "G10"
+    },
+    {
+        "plage": {
+            "dtStart": "2026-03-25T09:00:00",
+            "dtEnd": "2026-03-25T13:00:00"
+        },
+        "salle": "Salle25",
+        "Prof_ID": "Prof2,Prof17",
+        "titre": "Cours113",
+        "props": {
+            "Groupe": "G8",
+            "Prof": "Prof2,Prof17",
+            "Secteur": "1ère année Groupe 1",
+            "Materiel": "Projecteur,Tableau",
+            "Semestre": "4ème année Design Graphique S2",
+            "Annee": "L2"
+        },
+        "group": "G8"
+    }
+]
