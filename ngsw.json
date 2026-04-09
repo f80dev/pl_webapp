@@ -1,0 +1,65 @@
+{
+  "configVersion": 1,
+  "timestamp": 1775728487260,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/api.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-B3COHWNI.js",
+        "/manifest.webmanifest",
+        "/styles-UCNHS6GI.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/planner.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/api.js": "ff08ed9390efe490bce4fbd1e65facd96e7ce72e",
+    "/favicon.ico": "44c43e345ce50bee433a480b24701ba05fa94259",
+    "/index.html": "858b54ccaf603eddc4a10d3f864565ddce6bd0fb",
+    "/main-B3COHWNI.js": "bfc21543b9fe39b331eef91289759fc690f5c92b",
+    "/manifest.webmanifest": "1e6b0704d168bcc8e1646dfa598fa1df003d5c85",
+    "/planner.jpg": "e9deffba774d7a410dbf0307b3b1647a7d265a62",
+    "/styles-UCNHS6GI.css": "97d181a3b6a69f37ccef734a2e392dfcbbbbdcfb"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
